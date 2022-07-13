@@ -2,6 +2,7 @@
 
 If using any code in this repo, please cite: 
 
+```
 @article{chung2018classification,
   title={Classification and geometry of general perceptual manifolds},
   author={Chung, SueYeon and Lee, Daniel D and Sompolinsky, Haim},
@@ -12,6 +13,16 @@ If using any code in this repo, please cite:
   year={2018},
   publisher={APS}
 }
+
+@article{cohen2019separability,
+  title={Separability and Geometry of Object Manifolds in Deep Neural Networks},
+  author={Cohen, Uri and Chung, SueYeon and Lee, Daniel D and Sompolinsky, Haim},
+  journal={bioRxiv},
+  pages={644658},
+  year={2019},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
 
 # To begin Jupyter-Lab tutorial
 
