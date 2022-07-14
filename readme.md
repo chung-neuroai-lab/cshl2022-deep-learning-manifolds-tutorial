@@ -29,8 +29,8 @@ If using any code in this repo, please cite:
 Open terminal
 ```
 git clone https://github.com/chung-neuroai-lab/cshl2022-deep-learning-manifolds-tutorial.git
-pip install -r requirements.txt
 cd cshl2022-deep-learning-manifolds-tutorial
+pip install -r requirements.txt
 jupyter-lab
 ```
 ## Other notes
