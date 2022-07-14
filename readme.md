@@ -2,6 +2,12 @@
 
 If using any code in this repo, please cite: 
 
+1) [Chung,2018][1]
+2) [Cohen,2019][2]
+
+[1]: https://journals.aps.org/prx/pdf/10.1103/PhysRevX.8.031003
+[2]: https://www.nature.com/articles/s41467-020-14578-5.pdf 
+
 ```
 @article{chung2018classification,
   title={Classification and geometry of general perceptual manifolds},
