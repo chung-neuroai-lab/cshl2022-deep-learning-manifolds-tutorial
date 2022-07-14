@@ -30,7 +30,6 @@ Open terminal
 ```
 gh repo clone chung-neuroai-lab/cshl2022-deep-learning-manifolds-tutorial
 pip install -r requirements.txt
-pip install -e .
 cd cshl2022-deep-learning-manifolds-tutorial
 jupyter-lab
 ```
