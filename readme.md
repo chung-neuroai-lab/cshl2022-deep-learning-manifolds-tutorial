@@ -2,8 +2,8 @@
 
 If using any code in this repo, please cite: 
 
-1) [Chung,2018][1]
-2) [Cohen,2019][2]
+1) [Chung et al,2018][1]
+2) [Cohen et al,2020][2]
 
 [1]: https://journals.aps.org/prx/pdf/10.1103/PhysRevX.8.031003
 [2]: https://www.nature.com/articles/s41467-020-14578-5.pdf 
@@ -20,13 +20,13 @@ If using any code in this repo, please cite:
   publisher={APS}
 }
 
-@article{cohen2019separability,
+@article{cohen2020separability,
   title={Separability and Geometry of Object Manifolds in Deep Neural Networks},
   author={Cohen, Uri and Chung, SueYeon and Lee, Daniel D and Sompolinsky, Haim},
-  journal={bioRxiv},
-  pages={644658},
-  year={2019},
-  publisher={Cold Spring Harbor Laboratory}
+  journal={Nature Commun},
+  volume={11},
+  number={746},
+  year={2020}
 }
 ```
 
